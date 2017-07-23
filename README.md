@@ -8,4 +8,4 @@ Build
 
 #sudo make install
 
-#sudo modpro -a 8812au
+#sudo modprobe -a 8812au
